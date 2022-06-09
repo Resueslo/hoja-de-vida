@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    margin: 70px 50px;
+}
+
+.titulo-principal {
+    text-align: center;
+    color: #4275b3;
+}
+
+.contenedor {
+    max-width: 900px;
+    min-width: 540px;
+    margin: 0 auto;
+}
+
+table {
+    width: 50%;
+}
+
+.titulo {
+    color: #ffffff;
+    background-color: #4275b3;
+    padding: 5px 15px;
+    margin: 20px 0 8px 0;
+}
+
+.subtitulo {
+    font-weight: bold;
+}
+
+.contenedor-datos-personales {
+    display: inline-flex;
+    width: 100%;
+}
+
+.contenedor-img {
+    width: 50%;
+    text-align: center;
+}
